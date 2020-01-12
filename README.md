@@ -31,8 +31,8 @@ node comingsoonapp.js
 If you push to a server then you can use something like PM2 to keep this running or use yoru favorite cloud server and it should all work with no changes.
 
 This is what is should look like.
-![Working page](https://github.com/ThomasJay/Coming-Soon-Countdown-HTML-Node/sample.png)
 
+![Sample](/sample.png)
 
 Feel free to ask if you have questions.
 
