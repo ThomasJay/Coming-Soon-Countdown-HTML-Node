@@ -1,0 +1,23 @@
+{
+  "name": "coming-soon-countdown-html-node",
+  "version": "1.0.0",
+  "description": "Sample coming soon countdown page",
+  "main": "comingsoonapp.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasJay/Coming-Soon-Countdown-HTML-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasJay/Coming-Soon-Countdown-HTML-Node/issues"
+  },
+  "homepage": "https://github.com/ThomasJay/Coming-Soon-Countdown-HTML-Node#readme"
+}
