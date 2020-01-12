@@ -30,9 +30,11 @@ node comingsoonapp.js
 
 If you push to a server then you can use something like PM2 to keep this running or use yoru favorite cloud server and it should all work with no changes.
 
-This is what is should look like.
+This is what it should look like.
 
-![Sample](/sample.png)
+--------------------
+![Sample Page](/sample.png)
+--------------------
 
 Feel free to ask if you have questions.
 
